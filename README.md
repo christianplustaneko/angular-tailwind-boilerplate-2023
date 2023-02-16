@@ -1,27 +1,30 @@
-# TanekoBlog
+Angular Tailwind Template
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
+This is a template for Angular projects that incorporates the Tailwind CSS framework for easy and efficient styling. With this template, you can quickly start building your Angular application without worrying about setting up Tailwind or configuring your project to use it.
+Getting Started
 
-## Development server
+To get started with this template, simply clone the repository to your local machine and run npm install to install the necessary dependencies. Once installed, you can use the ng serve command to start the development server and begin working on your project.
+Tailwind CSS
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Tailwind CSS is a highly customizable CSS framework that provides a set of utility classes to make it easy to style your application. With Tailwind, you can quickly and easily create consistent styles for your project without having to write a lot of custom CSS.
 
-## Code scaffolding
+This template includes Tailwind CSS by default, so you can start using it right away. You can customize your Tailwind configuration by editing the tailwind.config.js file.
+Angular CLI
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+This template was built using the Angular CLI, which provides a set of tools for developing, building, and testing Angular applications. With the CLI, you can easily generate components, services, and other parts of your application, and you can use the ng test, ng build, and ng deploy commands to test, build, and deploy your application.
+Features
 
-## Build
+This template includes the following features:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+    Angular 12
+    Tailwind CSS
+    FontAwesome icons
+    Basic routing setup
+    A simple header and footer layout
 
-## Running unit tests
+Contributions
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Contributions are always welcome! If you have any suggestions or improvements, feel free to create an issue or submit a pull request.
+License
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This template is licensed under the MIT License, so you are free to use, modify, and distribute it as you see fit. See the LICENSE file for more information.
